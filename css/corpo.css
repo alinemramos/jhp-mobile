@@ -1,0 +1,41 @@
+.corpo {
+    background-color: #FFF;
+    padding-top: 2.5rem;
+    
+    align-items: center;
+}
+
+.corpo-titulo {
+    color: #222422;
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    text-align: center;
+
+    margin-bottom: 1.25rem;
+}
+
+.corpo-painel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-bottom: 2rem;
+}
+
+.corpo-painel-imagem {
+    width: 100vw;
+    max-width: 600px;
+    margin-bottom: .5rem;
+}
+
+.corpo-painel-texto {
+    font-weight: 700;
+    font-size: 1rem;
+    font-family: 'Open Sans', sans-serif;
+    line-height: normal;
+}
+
+.corpo-botao {
+    margin: 0 auto;
+}

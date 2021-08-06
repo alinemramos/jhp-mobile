@@ -30,4 +30,7 @@
 
 .chamada-botao {
     width: 100%;
+    background-color: #8A2424;
+    color: #FFF;
+    border-color: #8A2424;
 }
