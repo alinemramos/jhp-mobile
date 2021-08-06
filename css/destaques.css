@@ -1,0 +1,42 @@
+.destaques {
+    background-color: #FFF;
+    
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
+.destaques-titulo {
+    font-weight: 700;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #3C434A;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+
+.destaques-painel {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-bottom: 2rem;
+}
+
+.destaques-painel-imagem {
+    width: 100vw;
+    margin-bottom: .5rem;
+}
+
+.destaques-painel-texto {
+    font-weight: 700;
+    font-size: 1rem;
+    font-family: 'Open Sans', sans-serif;
+    line-height: normal;
+    width: 100%;
+}
+
+.destaques-botao {
+    color: #FFF;
+    border-color: #8A2424;
+}
