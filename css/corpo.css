@@ -12,7 +12,17 @@
     text-transform: uppercase;
     text-align: center;
 
-    margin-bottom: 1.25rem;
+    margin-bottom: 3rem;
+}
+
+.corpo-subtitulo {
+    color: #222422;
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-align: center;
+    padding-top: 3rem;
+
+    margin-bottom: 3rem;
 }
 
 .corpo-painel {
@@ -34,19 +44,22 @@
     font-size: 1rem;
     font-family: 'Open Sans', sans-serif;
     line-height: normal;
-    padding-top:.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 .corpo-texto {
     line-height: normal;
 
     margin: 0 auto .5rem;
-    padding-bottom: .5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 .corpo-texto-bold {
     color: #222422;
     font-weight: 700;
+    text-align: center;
 }
 
 .corpo-botao {
@@ -57,4 +70,29 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+}
+
+.tamanho-secao {
+    padding-top: 3rem;
+    padding-bottom: 6rem;
+}
+
+.secao-servicos {
+    background-color: #e3e6e3;
+}
+
+.secao-orcamento {
+
+}
+
+.secao-sobre {
+    background-color: #e3e6e3;
+}
+
+.secao-destaques {
+
+}
+
+.secao-contato {
+    background-color: #e3e6e3;
 }
