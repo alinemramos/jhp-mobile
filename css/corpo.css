@@ -82,17 +82,21 @@
 }
 
 .secao-orcamento {
-
+    background-color: #FFF;
 }
 
 .secao-sobre {
     background-color: #e3e6e3;
 }
 
-.secao-destaques {
+.secao-parceiros {
+    background-color: #FFF;
+}
 
+.secao-destaques {
+    background-color: #e3e6e3;
 }
 
 .secao-contato {
-    background-color: #e3e6e3;
+    background-color: #FFF;
 }
